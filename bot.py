@@ -48,7 +48,7 @@ from aiogram.types import (
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 # ======================= SOZLAMALAR (o'zgarmas) =======================
-BOT_TOKEN = "8909146315:AAG97jnqMlVHA52mmVNEc9K-TAj3610BiIk"
+BOT_TOKEN = "8909146315:AAGPf3Z7BaSF9bFmy7nzU547a6pN6h5GVGM"
 SUPER_ADMIN_ID = 7740552653
 MAIN_GROUP_ID = -1003989681202
 BUSINESS_NAME = "O'TOV BALIQ MARKAZI"
